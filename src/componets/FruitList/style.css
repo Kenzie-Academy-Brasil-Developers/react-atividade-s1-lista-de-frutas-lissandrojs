@@ -1,0 +1,8 @@
+.fruit{
+    margin: 10px 0 10px 0;
+    border: 6px solid aqua;
+    width: 200px;
+    height: 70px;
+    line-height: 70px;
+    border-radius: 30px;
+}
